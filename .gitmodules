@@ -1,0 +1,3 @@
+[submodule "stratalloc"]
+	path = stratalloc
+	url = https://github.com/pzhur/stratalloc
