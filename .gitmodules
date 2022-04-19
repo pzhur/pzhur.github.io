@@ -1,3 +1,3 @@
 [submodule "stratalloc"]
 	path = stratalloc
-	url = https://github.com/pzhur/stratalloc
+	url = git@github.com:pzhur/stratalloc
